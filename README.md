@@ -133,11 +133,7 @@ class FaikaMehvish:
 
 </div>
 
-<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FaikaMehvish&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7)]([https://github.com/faika-mehvish](https://github.com/FaikaMehvish))
-
-</div>
 
 ---
 
